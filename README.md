@@ -109,5 +109,6 @@ Run Locally
   streamlit run Introduction.py
 ```
 Contributed by 
-Aryan 
+Aryan Singh
+
 Raghav Khandelwal
